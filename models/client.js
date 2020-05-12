@@ -3,4 +3,5 @@ function client(name, id, address, email) {
   id = this.id;
   address = this.address;
   email = this.email;
+  test = this.email;
 }
